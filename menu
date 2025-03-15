@@ -1,0 +1,7 @@
+echo "# rendi-bot-bye" >> README.md 
+git init 
+git add README.md 
+git commit -m "komit pertama" 
+git branch -M main 
+git remote add origin https://github.com/rendi-bot-bye/rendi-bot-bye.git
+ git push -u origin main
