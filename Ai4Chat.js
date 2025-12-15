@@ -1,14 +1,14 @@
-/*  
+/*  renz
 
 
 
-  Made By Lenwy
-  Base : Lenwy
-  WhatsApp : wa.me/6283829814737
-  Telegram : t.me/ilenwy
-  Youtube : @Lenwy
+  Made renz
+  Base : renz bot
+  WhatsApp : wa.me/6285189495405
+  
 
-  Channel : https://whatsapp.com/channel/0029VaGdzBSGZNCmoTgN2K0u
+
+  
 
   Copy Code?, Recode?, Rename?, Reupload?, Reseller? Taruh Credit Ya :D
 
@@ -45,5 +45,6 @@ const axios = require('axios');
             throw error;
         }
     }
+
 
 module.exports = Ai4Chat;
